@@ -1,0 +1,61 @@
+Added 0 new books in the fantasy genre
+Added 796 new books in the science_fiction genre
+Added 3113 new books in the nonfiction genre
+Added 22186 books to DB.
+Total Elapsed Time:254.281s
+------------------------------------
+2023-11-22 15:41:40.799952Added 0 new books in the fantasy genre
+Added 0 new books in the science_fiction genre
+Added 0 new books in the nonfiction genre
+Added 0 books to DB.
+Total Elapsed Time: 13.687s
+------------------------------------
+2023-11-22 15:42:40.342963Added 0 new books in the fantasy genre
+Added 0 new books in the science_fiction genre
+Added 0 new books in the nonfiction genre
+Added 0 books to DB.
+Total Elapsed Time: 12.999s
+------------------------------------
+2023-11-22 15:43:43.016869
+Added 0 new books in the fantasy genre
+
+Added 0 new books in the science_fiction genre
+
+Added 0 new books in the nonfiction genre
+Added 0 books to DB.
+Total Elapsed Time: 13.899s
+------------------------------------
+2023-11-22 15:44:26.737066
+Added 0 new books in the fantasy genre
+Added 0 new books in the science_fiction genre
+Added 0 new books in the nonfiction genreAdded 0 books to DB.
+Total Elapsed Time: 13.005s
+------------------------------------
+2023-11-22 15:45:17.714910
+Added 0 new books in the fantasy genre
+Added 0 new books in the science_fiction genre
+Added 0 new books in the nonfiction genre
+Added 0 books to DB.
+Total Elapsed Time: 12.923s
+------------------------------------
+2023-11-22 16:21:28.272844
+Added 0 new books in the fantasy genre
+Added 0 new books in the sciencefiction genre
+Added 0 new books in the nonfiction genre
+Added 0 books to DB.
+Total Elapsed Time: 16.294s
+------------------------------------
+2023-11-22 16:25:37.554110
+Added 0 new books in the fantasy genre
+Added 0 new books in the science_fiction genre
+Added 0 new books in the non_fiction genre
+Added 0 books to DB.
+Total Elapsed Time: 13.729s
+------------------------------------
+2023-11-22 17:30:05.883496
+Added 2 new books in the fantasy genre
+Added 0 new books in the science_fiction genre
+Added 0 new books in the non_fiction genre
+Added 2 books to DB.
+Total Elapsed Time: 41.985s
+------------------------------------
